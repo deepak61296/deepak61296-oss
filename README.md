@@ -1,7 +1,8 @@
 # deepak61296-oss
 This repo contains a README which lists my open source contributions/PRs/projects.
-### ArduPilot Ecosystem
 
+### ArduPilot Ecosystem
+## Merged Pr's
 - [GCS_FTP: fix OpenFileWO missing O_CREAT flag](https://github.com/ArduPilot/ardupilot/pull/31872)
 - [AP_Scripting: remove viewpro lua driver](https://github.com/ArduPilot/ardupilot/pull/31774)
 - [Tools: add AIS autotest for Rover](https://github.com/ArduPilot/ardupilot/pull/31952)
