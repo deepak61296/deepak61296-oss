@@ -1,8 +1,13 @@
-# deepak61296-oss
-This repo contains a README which lists my open source contributions/PRs/projects.
+# Deepak Popli – Open Source Contributions
 
-### ArduPilot Ecosystem
-## Merged Pr's
+This repository lists some of my open source contributions and related projects.
+
+Most of my contributions so far have been in the ArduPilot ecosystem.
+
+---
+
+## Merged Pull Requests (ArduPilot Ecosystem)
+
 - [GCS_FTP: fix OpenFileWO missing O_CREAT flag](https://github.com/ArduPilot/ardupilot/pull/31872)
 - [AP_Scripting: remove viewpro lua driver](https://github.com/ArduPilot/ardupilot/pull/31774)
 - [Tools: add AIS autotest for Rover](https://github.com/ArduPilot/ardupilot/pull/31952)
@@ -13,11 +18,16 @@ This repo contains a README which lists my open source contributions/PRs/project
 - [Dev: fix typo in SITL setup docs](https://github.com/ArduPilot/ardupilot_wiki/pull/7318)
 - [Fix UI typos](https://github.com/ArduPilot/AP_Cloud/pull/3)
 
-- ## Related Open Source Project
+---
+ 
+## Related Project
 
-I’m also working on a small project related to the ArduPilot ecosystem:
+I’m also working on an experimental project related to the ArduPilot ecosystem:
 
-ArduPilot AI Backend  
+**ArduPilot AI Backend**  
 https://github.com/deepak61296/ardupilot-ai-backend
 
-The idea is to experiment with AI-assisted backend tooling around ArduPilot systems. As of now this works with mavproxy , qgc and mission planner(my forks/builds only)
+
+Merged PRs: 9
+Focus: UAV/Robotics ,Firmware , Deeplearning 
+i love doing cool robotics stuff :)
